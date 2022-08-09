@@ -10,7 +10,7 @@ react.js react-redux socket.io node.js
 
 ## 접근 가능한 URL
 
-- https://ahyoung21.github.io/list/
+- https://ahyoung21.github.io/chatting/
 
 ## 폴더 트리
 
@@ -55,9 +55,3 @@ react.js react-redux socket.io node.js
 - 메시지 전송 시간 : moment 사용. 미국 서버를 사용하여 moment-timezone을 이용하여 아시아 시간으로 변경했습니다.
 - 메시지 시간 예외 처리 : 한 사람이 1분 동안 메시지를 연속해서 보낸다면 자바스크립트로 조건처리를 하여 구현하였습니다.
 - 날짜가 바뀌면 구분선 추가 작업은 moment에서 해당 날짜를 가져와서 자바스크립트로 처리하여 구현하였습니다.
-- 사진 전송 기능은 socketio-file-upload를 이용하여 버튼 클릭 후 파일을 첨부하는 거까지는 구현하였는데 목록에서 사진을 클릭하자마자 그 사진이 첨부되는 기능은 구현하지 못했습니다.
-
-## 고민되었던 부분
-
-1. 통신했던 대화 기록들을 db에 보관해야 하는지 고민이 되었습니다.
-2. 리덕스를 어디까지 적용할 것인가에 대해 고민이 되었습니다.

@@ -30,7 +30,7 @@ function Header({ title, type, handleUpoladOpen }) {
         <>
           <Link
             to={{
-              pathname: `/list/`,
+              pathname: `/chatting/`,
             }}
           >
             <img src={IcoPrev} />

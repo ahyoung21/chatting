@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/chatting/static/js/main.6c6b27cc.chunk.js",
-    "main.js.map": "/chatting/static/js/main.6c6b27cc.chunk.js.map",
-    "runtime-main.js": "/chatting/static/js/runtime-main.2fcd074f.js",
-    "runtime-main.js.map": "/chatting/static/js/runtime-main.2fcd074f.js.map",
-    "static/js/2.f19c774d.chunk.js": "/chatting/static/js/2.f19c774d.chunk.js",
-    "static/js/2.f19c774d.chunk.js.map": "/chatting/static/js/2.f19c774d.chunk.js.map",
+    "main.js": "/chatting/static/js/main.bae92d8e.chunk.js",
+    "main.js.map": "/chatting/static/js/main.bae92d8e.chunk.js.map",
+    "runtime-main.js": "/chatting/static/js/runtime-main.b9fcee54.js",
+    "runtime-main.js.map": "/chatting/static/js/runtime-main.b9fcee54.js.map",
+    "static/js/2.9898d9a9.chunk.js": "/chatting/static/js/2.9898d9a9.chunk.js",
+    "static/js/2.9898d9a9.chunk.js.map": "/chatting/static/js/2.9898d9a9.chunk.js.map",
     "index.html": "/chatting/index.html",
-    "precache-manifest.54afa8330b90821709fba141696098c6.js": "/chatting/precache-manifest.54afa8330b90821709fba141696098c6.js",
+    "precache-manifest.af6bac04d6036e49e8588a81e84f12a5.js": "/chatting/precache-manifest.af6bac04d6036e49e8588a81e84f12a5.js",
     "service-worker.js": "/chatting/service-worker.js",
-    "static/js/2.f19c774d.chunk.js.LICENSE.txt": "/chatting/static/js/2.f19c774d.chunk.js.LICENSE.txt"
+    "static/js/2.9898d9a9.chunk.js.LICENSE.txt": "/chatting/static/js/2.9898d9a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fcd074f.js",
-    "static/js/2.f19c774d.chunk.js",
-    "static/js/main.6c6b27cc.chunk.js"
+    "static/js/runtime-main.b9fcee54.js",
+    "static/js/2.9898d9a9.chunk.js",
+    "static/js/main.bae92d8e.chunk.js"
   ]
 }

@@ -68,14 +68,5 @@
     "chatNum": "5",
     "lastChat": "어딘데 출근 안하니, 죽고싶니?",
     "lastChatDateTime": "2022-02-13 11:11:11"
-  },
-  {
-    "seq": 9,
-    "userId": "카카오 스타일",
-    "thumbNailPath": "/assets/sample/img_sample01@3x.png",
-    "isRead": "N",
-    "chatNum": "5",
-    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
-    "lastChatDateTime": "2022-02-13 11:11:11"
   }
 ]

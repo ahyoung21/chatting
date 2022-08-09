@@ -1,8 +1,8 @@
 {
-  "homepage": "http://ahyoung21.github.io/list",
-  "name": "ahyoung",
+  "name": "ahyoung chatting",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ahyoung21.github.io/chatting",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -24,6 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "postbuild": "cp build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
